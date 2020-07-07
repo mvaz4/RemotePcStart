@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850710296998",
+    "firebase_url": "https://remotepcstart.firebaseio.com",
+    "project_id": "remotepcstart",
+    "storage_bucket": "remotepcstart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850710296998:android:88ae0580123a55add8f767",
+        "android_client_info": {
+          "package_name": "com.rat.remotepcstart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850710296998-7ikdafglus5a596mpu6taj8o8t81hc8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq43lKh5dMKFSEOrq9TWsnN1suD44syM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850710296998-7ikdafglus5a596mpu6taj8o8t81hc8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
